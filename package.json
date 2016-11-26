@@ -1,0 +1,13 @@
+{
+  "name": "getbasis-spinner",
+  "version": "1.0.0",
+  "author": "inc2734",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getbasis/spinner"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
